@@ -1,0 +1,1 @@
+cl /Fe:bin\prtstr.exe /Fo:obj\prtstr.obj src\main.c
